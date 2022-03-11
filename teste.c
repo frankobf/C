@@ -10,3 +10,5 @@ void main(void)
 
     printf("%d \n", mat[5]);
 }
+
+// testando adcionando um comentário para ver se o git status identifica.
